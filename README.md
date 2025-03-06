@@ -4,7 +4,7 @@ Bu proje, en fazla 8 uzunlukta giriş dizisi alıp dizinin tam tersini döndüre
 
 ## Proje Yapısı
 
-- **model/**: Eğitilmiş model ve ilgili dosyalar.
+- **src**: Source code.
 - **app.py**: Flask uygulaması, model tahminlerini almak için kullanılır.
 - **requirements.txt**: Gerekli bağımlılıkları içerir.
 - **README.md**: Proje hakkında bilgi sağlar.
